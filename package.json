@@ -1,0 +1,22 @@
+{
+  "name": "pokemon-restful-api",
+  "version": "1.0.0",
+  "description": "Pokimon Terminal Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "init",
+    "package.json",
+    "pokeapi"
+  ],
+  "author": "Erik Aung aungnaingthuerik@gmail.com http://aungnaingthu.me/",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "lowdb": "^1.0.0"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "local": {
+    "1-bulbasaur": {
+      "id": 1,
+      "name": "bulbasaur",
+      "types": [
+        {
+          "type": "grass"
+        },
+        {
+          "type": "poison"
+        }
+      ],
+      "stats": [
+        {
+          "name": "hp",
+          "value": 45
+        },
+        {
+          "name": "attack",
+          "value": 49
+        },
+        {
+          "name": "defense",
+          "value": 49
+        },
+        {
+          "name": "special-attack",
+          "value": 65
+        },
+        {
+          "name": "special-defense",
+          "value": 65
+        },
+        {
+          "name": "speed",
+          "value": 45
+        }
+      ],
+      "encounters": [],
+      "expire": 1616168308275
+    },
+    "2-ivysaur": {
+      "id": 2,
+      "name": "ivysaur",
+      "types": [
+        {
+          "type": "grass"
+        },
+        {
+          "type": "poison"
+        }
+      ],
+      "stats": [
+        {
+          "name": "hp",
+          "value": 60
+        },
+        {
+          "name": "attack",
+          "value": 62
+        },
+        {
+          "name": "defense",
+          "value": 63
+        },
+        {
+          "name": "special-attack",
+          "value": 80
+        },
+        {
+          "name": "special-defense",
+          "value": 80
+        },
+        {
+          "name": "speed",
+          "value": 60
+        }
+      ],
+      "encounters": [],
+      "expire": 1616168310468
+    },
+    "3-venusaur": {
+      "id": 3,
+      "name": "venusaur",
+      "types": [
+        {
+          "type": "grass"
+        },
+        {
+          "type": "poison"
+        }
+      ],
+      "stats": [
+        {
+          "name": "hp",
+          "value": 80
+        },
+        {
+          "name": "attack",
+          "value": 82
+        },
+        {
+          "name": "defense",
+          "value": 83
+        },
+        {
+          "name": "special-attack",
+          "value": 100
+        },
+        {
+          "name": "special-defense",
+          "value": 100
+        },
+        {
+          "name": "speed",
+          "value": 80
+        }
+      ],
+      "encounters": [],
+      "expire": 1616168312291
+    },
+    "25-pikachu": {
+      "id": 25,
+      "name": "pikachu",
+      "types": [
+        {
+          "type": "electric"
+        }
+      ],
+      "stats": [
+        {
+          "name": "hp",
+          "value": 35
+        },
+        {
+          "name": "attack",
+          "value": 55
+        },
+        {
+          "name": "defense",
+          "value": 40
+        },
+        {
+          "name": "special-attack",
+          "value": 50
+        },
+        {
+          "name": "special-defense",
+          "value": 50
+        },
+        {
+          "name": "speed",
+          "value": 90
+        }
+      ],
+      "encounters": [],
+      "expire": 1616168318954
+    }
+  }
+}
